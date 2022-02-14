@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-//COP4365 - Spring Semester, 2022
-//Homework #1: The Four Way Stoplight Problem
-//Amir Aslamov
-
 
 namespace WindowsFormsApp2
 {
