@@ -5,10 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//COP4365 - Spring Semester, 2022
-//Homework #1: The Four Way Stoplight Problem
-//Amir Aslamov
-
 namespace WindowsFormsApp2
 {
     //class for the stoplight objects
